@@ -31,3 +31,11 @@ body {
     text-wrap: balance;
   }
 }
+.navbar{
+  height:12rem;
+}
+.brand{
+  width: 150px;
+  padding:0;
+  margin:0;
+}
